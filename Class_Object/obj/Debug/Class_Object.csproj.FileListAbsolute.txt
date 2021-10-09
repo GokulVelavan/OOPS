@@ -1,0 +1,7 @@
+C:\Users\INFINITY\source\repos\Class_Object\bin\Debug\Class_Object.exe.config
+C:\Users\INFINITY\source\repos\Class_Object\bin\Debug\Class_Object.exe
+C:\Users\INFINITY\source\repos\Class_Object\bin\Debug\Class_Object.pdb
+C:\Users\INFINITY\source\repos\Class_Object\obj\Debug\Class_Object.csproj.AssemblyReference.cache
+C:\Users\INFINITY\source\repos\Class_Object\obj\Debug\Class_Object.csproj.CoreCompileInputs.cache
+C:\Users\INFINITY\source\repos\Class_Object\obj\Debug\Class_Object.exe
+C:\Users\INFINITY\source\repos\Class_Object\obj\Debug\Class_Object.pdb
